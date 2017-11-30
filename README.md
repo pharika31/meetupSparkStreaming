@@ -16,3 +16,6 @@ The pipeline constructed for this analysis task is as follows:
 5) Spark streaming can then be used to analyze this data and find out details like the number of events in different states in US, find out popular events based on RSVPs etc. 
 6) Zeppelin Notebook is used to visualize the statistical analysis.
 
+<h1>Analytics pipeline</h1>
+<img src="./project/images/pipeline.png" width="700" height="300"/>
+  
